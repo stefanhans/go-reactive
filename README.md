@@ -12,7 +12,6 @@ At the same time, the price reduction of edge devices leads to another major top
 But the expected scenarios in IoT seem to be only partially manageable by the approach
 of current cloud technology. Mainly due to two reasons, the further increase of the data
 magnitudes and the demands of time critical applications.
-
 As an obvious consequence, the top architecture has to be transformed once again from
 a more centralized approach to a decentralized and distributed one.
 A set of connected isomorphic applications having a server and a client shape can act as
