@@ -64,7 +64,7 @@ by a well-known, high available naming service and a broadcast mechanism for ad-
 systems in isolated areas.
 
 ##### gRPC and Protocol Buffer
-gRPC, the RPC implementation by Google, and Protocol Buffer, a serializing
+[gRPC](http://www.grpc.io), the RPC implementation by Google, and [Protocol Buffer](https://developers.google.com/protocol-buffers), a serializing
 framework for structured data, will be used in combination to realize the communication
 layer of the Reactive System.
 
