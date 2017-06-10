@@ -4,7 +4,7 @@ During the last decade, the rise of disruptive, cutting-edge technologies was sh
 the developer communities in the field of computer science. The top dogs among the
 technology leaders were using their own developments to cope with massive data streams
 and high customer expectations about responsiveness. These systems are described
-concisely as Reactive Systems in [The Reactive Manifesto](http://http://www.reactivemanifesto.org). Nowadays, these systems
+concisely as Reactive Systems in [The Reactive Manifesto](http://www.reactivemanifesto.org). Nowadays, these systems
 are known as cloud and offered as a service (aaS).
 
 At the same time, the price reduction of edge devices leads to another major topic, IoT.
@@ -22,7 +22,7 @@ a more centralized approach to a decentralized and distributed one.
 that all necessary aspects are already recognised individually: we want systems that are
 Responsive, Resilient, Elastic and Message Driven. We call these Reactive Systems."
 ```
-*Jonas Bonér, Dave Farley, Roland Kuhn, and Martin Thompson, [The Reactive Manifesto](http://http://www.reactivemanifesto.org)*
+*Jonas Bonér, Dave Farley, Roland Kuhn, and Martin Thompson, [The Reactive Manifesto](http://www.reactivemanifesto.org)*
 
 Systems built as Reactive Systems are traditionally acting as a server providing func-
 tionality to other clients. They are the cloud, and the clients are the edge.
