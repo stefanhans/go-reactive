@@ -29,7 +29,7 @@ structure.
 that all necessary aspects are already recognised individually: we want systems that are
 Responsive, Resilient, Elastic and Message Driven. We call these Reactive Systems."
 ```
-*Jonas Bonér, Dave Farley, Roland Kuhn, and Martin Thompson, The Reactive Manifesto*
+*Jonas Bonér, Dave Farley, Roland Kuhn, and Martin Thompson, [The Reactive Manifesto](http://http://www.reactivemanifesto.org)*
 
 Systems built as Reactive Systems are traditionally acting as a server providing func-
 tionality to other clients. They are the cloud, and the clients are the edge.
