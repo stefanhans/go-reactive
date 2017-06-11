@@ -1,5 +1,5 @@
 # A Framework for Reactive Systems in Go
-
+![Image of mascot](images/mascot.png)
 During the last decade, the rise of disruptive, cutting-edge technologies was shaking up
 the developer communities in the field of computer science. The top dogs among the
 technology leaders were using their own developments to cope with massive data streams
